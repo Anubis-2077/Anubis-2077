@@ -15,10 +15,10 @@ About Me<br>Hello! I'm Gerardo, a passionate and experienced software developer 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anubis-2077&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anubis-2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
