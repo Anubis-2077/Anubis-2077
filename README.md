@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+About Me<br>Hello! I'm Gerardo, a passionate and experienced software developer with over four years in the industry. I specialize in backend development and have a strong proficiency in Python, JavaScript, SQL, and PostgreSQL. My technical skills are complemented by a robust understanding of web frameworks like Django and front-end technologies.<br><br>Professional Experience<br>Freelance Software Developer<br><br>Over the past four years, I've worked with various companies across different sectors, including legal and accounting firms. I have successfully delivered numerous projects, developing tailored web solutions that enhance operational efficiency and streamline processes.<br>Junior Software Developer at a Legal/Accounting Firm<br><br>Designed a comprehensive web app to manage clients, digitalize case files, handle billing, control expenses, manage payroll, track attendance, and automate document generation. Implemented barcode-based case file searches and developed a debt calculation system with variable interest rates.<br>Backend Web Developer at Taringa<br><br>Worked on the moderation section of Taringa, enhancing algorithms for censorship and user banning. Collaborated with a small team to improve backend systems, ensuring efficient and accurate content moderation.<br>Notable Project<br>National-Scale Platform for the Bakers' Union of Argentina<br>Led the development of a scalable web platform capable of handling over 30,000 concurrent users. Designed the system using Django for the backend and React for the front end, with all components managed from a centralized control panel. Ensured robust security measures and seamless integration with existing systems.<br>Skills and Qualities<br>Technical Proficiency: Strong skills in Python, JavaScript, SQL, PostgreSQL, Django, Docker, and GitHub. Familiar with cloud platforms like GCP and AWS.<br>Problem-Solving: Ability to tackle complex challenges with innovative solutions, ensuring high performance and reliability.<br>Effective Communication: Excellent communicator, capable of working independently and collaboratively in remote settings.<br>Adaptability: Versatile and adaptable, able to quickly learn new technologies and methodologies to meet project requirements.<br>Team Player: Strong team player with a proven track record of collaborating effectively with cross-functional teams to achieve project goals.<br>What I Offer<br>I bring a unique blend of technical expertise and practical experience, combined with a passion for continuous learning and improvement. I am committed to delivering high-quality solutions that drive business success and improve user experiences.
 
-<!--
-**Anubis-2077/Anubis-2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gerardo (Ernesto) Escobar) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anubis-2077&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anubis-2077&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubis-2077&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anubis-2077&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anubis-2077&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
